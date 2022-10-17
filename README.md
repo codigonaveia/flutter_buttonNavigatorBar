@@ -1,12 +1,10 @@
-# estudosflutter
+ <h3>Estudo de flutter - ButtonNavigatoBar</h3>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+<a href="https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html">Documentação aqui</a>
+<p align="center">
+  <img src="images/exemplo1.png" width="350" title="hover text">
+  
+</p>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
