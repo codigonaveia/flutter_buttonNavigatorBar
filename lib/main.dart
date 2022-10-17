@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'NavegatorButton1.dart';
 import 'navegator_butron2.dart';
+import 'widgetTabbar.dart';
 
 void main() => runApp(const MyApp());
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: _title,
-      home: MeuSegundoNavegator(),
+      home: MyWidgetTabBar(),
     );
   }
 }
