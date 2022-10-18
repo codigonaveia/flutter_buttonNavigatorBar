@@ -4,6 +4,7 @@
 <p>Neste tutorial deixo disponiveis alguns tipos de navegação usando flutter</p>
 <p>1° Button Navegator</p>
 <p>2° Widget TabBar</p>
+<p>3° Widget Stepper</p>
 
 ![image](https://user-images.githubusercontent.com/110294612/196270904-b43a34b0-1dce-42d0-8601-271af54c5bec.png)
 
