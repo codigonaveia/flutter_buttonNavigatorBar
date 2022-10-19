@@ -8,7 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/110294612/196270904-b43a34b0-1dce-42d0-8601-271af54c5bec.png)
 
-<h1> Wiget Stepper</h1>
+<h1>Widget Stepper<h1>
+ 
 ![image](https://user-images.githubusercontent.com/110294612/196568508-c1e060ec-f6c2-4f3a-8aa2-e64e20cb163f.png)
 
 
